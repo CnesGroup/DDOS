@@ -1,8 +1,11 @@
 # DDOS
 
+![DDOS](https://github.com/ekovegeance/Picture/blob/master/ddos.jpg)
 
 ## Version 1.1.0
 
+![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
+![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)
 
 **A bash script inspired by pentbox.**
 
@@ -13,9 +16,7 @@ Designed to be a simple way to implement various network pentesting functions, i
 
 Tested on Debian and Arch.
 
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/address/15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7)
+
 
 ## Requirements:
 
@@ -60,7 +61,6 @@ $ chmod +x ./ddos
 $ ./ddos
 ```
 
-Alternatively, use git clone, or download the latest release from https://github.com/GinjaChris/pentmenu/releases, extract it and run the script.
 
 
 ## Module detail
@@ -153,20 +153,26 @@ Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) o
 
 ## Donations
 
-- Donation: Send to [bitcoin](https://blockchain.info/address/15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7)
+- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
 
-- Addres Bitcoin : 15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7
 
+ 
 
-## :octocat: Credits
-1. Twitter @ekovegeance7  main developer of wece
-2. https://www.parrotsec.org
-3. https://dracos-linux.org
-4. Offensive Secuirty for the awesome os
-5. http://www.kali.org
-6. http://www.offensive-security.com
+## :octocat: Contact
+- Website : https://evsystemsite.wordpress.com/
+- Facebook : https://web.facebook.com/evsystem.org
+- Twitter : https://twitter.com/ekovegeance7
+- Telegram : https://t.me/evsystemsite
+- Google+ : https://plus.google.com/117233958552972040322?hl=id
+
+## : Partner
+- Xenta OS : http://www.xentaos.org/
+- IndoXploit : https://www.indoxploit.or.id/
+- dracOs Linux : https://dracos-linux.org/
 
 ## Disclaimer
 
 ***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( evsystem ).***
+
 
